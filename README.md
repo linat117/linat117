@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HILINA TESHOME
-- 👀 I’m interested in web development Front end
-- 🌱 I’m currently learning in Debre Brihan University
-- i am currently working at kuraz technologies as intern
+- 👋 Hi, I’m HILINA TESHOME
+- 👀 I’m interested in web development specially in Front end
+- 🌱 I have graduated from Debre berhan university with a bachelor of Science in Software Engineering in 2024.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me https://t.me/linat117
 
