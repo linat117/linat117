@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="Coding girl" width="300" src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" />
+<img align="right" alt="Girl Coding" width="300" src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" />
 
 ### 💡 About Me
 
