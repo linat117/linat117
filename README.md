@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Website Developer | ALX SE Student | SheCodes Alumni</h3>
 
 ---
-<img align="right" alt="Girl Coding" width="300" src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" />
+<img align="right" alt="Girl Coding" width="300" src="[https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNvamszZnBuejJreTNnajZnOWYwN2VrdTFjeGRnbGdseWw0d29wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ss0EiG29MulxjBXKVu/giphy.gif)" />
 
 
 ### 💡 About Me
