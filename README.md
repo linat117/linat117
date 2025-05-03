@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Hilina Teshome</h1>
 <h3 align="center">Software Engineer | Website Developer | ALX SE Student | SheCodes Alumni</h3>
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding girl" width="300" src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" />
 
 ### 💡 About Me
 
@@ -45,7 +46,7 @@
   <a href="www.linkedin.com/in/hilina-teshome-a3406b255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/@linat_117"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 </p>
-
 ---
 
 <p align="center">💻 Code. Learn. Grow. Inspire.</p>
+
