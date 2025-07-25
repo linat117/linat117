@@ -10,7 +10,7 @@
 ### 💡 About Me
 
 - 🔭 I’m currently working as a **Website Developer**  
-- 🌱 I’m learning via **Pluralsight courses**, **SheCodes workshops**, and **ALX Backend tracks**  
+- 🌱 I’m learning via **Pluralsight courses**, **SheCodes workshops**, **PLP software development program**, and **ALX Backend tracks**  
 - 🤝 I’m open to help and collaborate on software development projects  
 - ⚡ Fun fact: **I love coding**
 
